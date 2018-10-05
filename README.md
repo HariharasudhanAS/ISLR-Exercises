@@ -1,2 +1,2 @@
 # ISLR-Exercises
-Solutions to ISLR
+Solutions to [ISLR](https://www-bcf.usc.edu/~gareth/ISL/)
