@@ -7,3 +7,4 @@
 Squares, Heteroskedasticity, Local Polynomial
 Regression](https://www.stat.cmu.edu/~cshalizi/350/lectures/18/lecture-18.pdf)
 * [Lecture Slides from Duke University](http://www2.stat.duke.edu/~rcs46/lectures_2017/)
+* [Understanding Diagnostic Plots for Linear Regression Analysis](https://data.library.virginia.edu/diagnostic-plots/)
