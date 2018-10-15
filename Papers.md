@@ -8,3 +8,6 @@ Squares, Heteroskedasticity, Local Polynomial
 Regression](https://www.stat.cmu.edu/~cshalizi/350/lectures/18/lecture-18.pdf)
 * [Lecture Slides from Duke University](http://www2.stat.duke.edu/~rcs46/lectures_2017/)
 * [Understanding Diagnostic Plots for Linear Regression Analysis](https://data.library.virginia.edu/diagnostic-plots/)
+* [Analyzing outliers: influential or nuisance?](https://www.nature.com/articles/nmeth.3812)
+* [Analysis of variance (ANOVA)](https://www.khanacademy.org/math/statistics-probability/analysis-of-variance-anova-library/)
+* [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
