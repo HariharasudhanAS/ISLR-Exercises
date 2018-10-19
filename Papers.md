@@ -1,8 +1,7 @@
 ## References
 * [Multiple regression analysis
- with qualitative information ](https://www.uv.es/uriel/5%20Multiple%20regression%20analysis%20with%20qualitative%20information.pdf)
-* [A Note on High Dimensional Linear
- Regression with Interactions](https://arxiv.org/pdf/1412.7138.pdf)
+ with qualitative information](https://www.uv.es/uriel/5%20Multiple%20regression%20analysis%20with%20qualitative%20information.pdf)
+* [Understanding Interaction Effects in Statistics](http://statisticsbyjim.com/regression/interaction-effects/)
 * [Extending Linear Regression: Weighted Least
 Squares, Heteroskedasticity, Local Polynomial
 Regression](https://www.stat.cmu.edu/~cshalizi/350/lectures/18/lecture-18.pdf)
@@ -12,3 +11,4 @@ Regression](https://www.stat.cmu.edu/~cshalizi/350/lectures/18/lecture-18.pdf)
 * [Analysis of variance (ANOVA)](https://www.khanacademy.org/math/statistics-probability/analysis-of-variance-anova-library/)
 * [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
 * [Neural networks and Bias/Variance Trade-off](http://delta-apache-vm.cs.tau.ac.il/~nin/Courses/NC06/VarbiasBiasGeman.pdf)
+* [Comparing nonlinear, non-nested models](https://stat.ethz.ch/pipermail/r-help/2012-November/340186.html)
