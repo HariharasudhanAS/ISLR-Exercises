@@ -7,12 +7,12 @@ plot(Volume)
 glm.fit = glm(Direction~Lag1+Lag2+Lag3+Lag4+Lag5+Volume, data=Smarket, family=binomial)
 summary(glm.fit)
 summary(glm.fit)$coef[,4]
-# When no input is given to probs, it calculates 
-# probability of training data : P(Y=1|X)
+# When no input is given to predict, it calculates 
+# probability of training data : P(Y=1|X) in binomial data
 glm.prob =predict(glm.fit, type = "response")
 glm.prob[1:10]
 contrasts(Direction)
-# So probs calculated probability of going up
+# 1 is assigned to Up, so probs calculated probability of going up
 glm.pred = rep("Down", 1250)
 ?rep
 glm.pred[glm.prob>0.5] = "Up"
@@ -76,6 +76,7 @@ mean(knn.pred==Direction.2005)
 summary(Caravan)
 attach(Caravan)
 summary(Purchase)
+#?scale
 standardized.X=scale(Caravan[,-86])
 var(Caravan[,1])
 var(standardized.X[,1])
